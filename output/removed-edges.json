@@ -1,0 +1,17 @@
+[
+    {
+        "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer11",
+        "pred": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#classifiedInto",
+        "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C"
+    },
+    {
+        "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer5",
+        "pred": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#treatedBy",
+        "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TACE"
+    },
+    {
+        "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer3",
+        "pred": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#treatedBy",
+        "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#ARF"
+    }
+]
