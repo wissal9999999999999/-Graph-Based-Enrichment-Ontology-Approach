@@ -1,0 +1,2788 @@
+{
+    "graphs": {
+        "nodes": [
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "type": "CLASS",
+                "label": "LiverCancer"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "type": "CLASS",
+                "label": "BCLC-System"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#StageTNM",
+                "type": "CLASS",
+                "label": "StageTNM"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nodule",
+                "type": "CLASS",
+                "label": "Nodule"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "type": "CLASS",
+                "label": "Liver"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "type": "CLASS",
+                "label": "TypesLiverCancer"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "type": "CLASS",
+                "label": "Diagnosis"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M",
+                "type": "CLASS",
+                "label": "M"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N",
+                "type": "CLASS",
+                "label": "N"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "type": "CLASS",
+                "label": "T"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "type": "CLASS",
+                "label": "Risk-Factors"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "type": "CLASS",
+                "label": "Symptoms"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient",
+                "type": "CLASS",
+                "label": "Patient"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "type": "CLASS",
+                "label": "Treatment"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AdvancedStage",
+                "type": "CLASS",
+                "label": "AdvancedStage"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholRelatedLiverDisease",
+                "type": "CLASS",
+                "label": "AlcoholRelatedLiverDisease"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneLiverDisease",
+                "type": "CLASS",
+                "label": "AutoimmuneLiverDisease"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer",
+                "type": "CLASS",
+                "label": "Cancer"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Disease",
+                "type": "CLASS",
+                "label": "Disease"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cholestatic",
+                "type": "CLASS",
+                "label": "Cholestatic"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cirrhosis",
+                "type": "CLASS",
+                "label": "Cirrhosis"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "type": "CLASS",
+                "label": "MedicalIntervention"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EarlyStage",
+                "type": "CLASS",
+                "label": "EarlyStage"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#FattyLiverDisease",
+                "type": "CLASS",
+                "label": "FattyLiverDisease"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hapatocellular-Carcinoma",
+                "type": "CLASS",
+                "label": "Hapatocellular-Carcinoma"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis",
+                "type": "CLASS",
+                "label": "Hepatitis"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Inherited",
+                "type": "CLASS",
+                "label": "Inherited"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#IntermediateStage",
+                "type": "CLASS",
+                "label": "IntermediateStage"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "type": "CLASS",
+                "label": "TNM-System"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "type": "CLASS",
+                "label": "References"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#UltimateStage",
+                "type": "CLASS",
+                "label": "UltimateStage"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#VeryEarlyStage",
+                "type": "CLASS",
+                "label": "VeryEarlyStage"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#WLSON",
+                "type": "CLASS",
+                "label": "WLSON"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#classifiedInto",
+                "type": "PROPERTY",
+                "label": "classifiedInto"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#composedOf",
+                "type": "PROPERTY",
+                "label": "composedOf"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#contains",
+                "type": "PROPERTY",
+                "label": "contains"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#diagnosedBy",
+                "type": "PROPERTY",
+                "label": "diagnosedBy"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#has-M",
+                "type": "PROPERTY",
+                "label": "has-M"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#has-N",
+                "type": "PROPERTY",
+                "label": "has-N"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#has-T",
+                "type": "PROPERTY",
+                "label": "has-T"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#hasCauses",
+                "type": "PROPERTY",
+                "label": "hasCauses"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#hasSymptoms",
+                "type": "PROPERTY",
+                "label": "hasSymptoms"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#hasTumor",
+                "type": "PROPERTY",
+                "label": "hasTumor"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#treatedBy",
+                "type": "PROPERTY",
+                "label": "treatedBy"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A0",
+                "type": "INDIVIDUAL",
+                "label": "A0"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A1",
+                "type": "INDIVIDUAL",
+                "label": "A1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A2",
+                "type": "INDIVIDUAL",
+                "label": "A2"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A3",
+                "type": "INDIVIDUAL",
+                "label": "A3"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A4",
+                "type": "INDIVIDUAL",
+                "label": "A4"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#ARF",
+                "type": "INDIVIDUAL",
+                "label": "ARF"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AbnormalFunctionLiver",
+                "type": "INDIVIDUAL",
+                "label": "AbnormalFunctionLiver"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Aflatoxin",
+                "type": "INDIVIDUAL",
+                "label": "Aflatoxin"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Alcohol",
+                "type": "INDIVIDUAL",
+                "label": "Alcohol"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "type": "INDIVIDUAL",
+                "label": "AlcoholicCirrhosis"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Biopsy",
+                "type": "INDIVIDUAL",
+                "label": "Biopsy"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Blood_tests",
+                "type": "INDIVIDUAL",
+                "label": "Blood_tests"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EvaluatedLiverEnzimes",
+                "type": "INDIVIDUAL",
+                "label": "EvaluatedLiverEnzimes"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fat-Deposition-Liver-Cells",
+                "type": "INDIVIDUAL",
+                "label": "Fat-Deposition-Liver-Cells"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fever",
+                "type": "INDIVIDUAL",
+                "label": "Fever"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Inflammation-Of-Liver",
+                "type": "INDIVIDUAL",
+                "label": "Inflammation-Of-Liver"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Jaundice",
+                "type": "INDIVIDUAL",
+                "label": "Jaundice"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Loss_of_appetite_and_feelings_of_fullness",
+                "type": "INDIVIDUAL",
+                "label": "Loss_of_appetite_and_feelings_of_fullness"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nausea_and_vomiting",
+                "type": "INDIVIDUAL",
+                "label": "Nausea_and_vomiting"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Pain_in_the_upper_abdomen_on_the_right_side",
+                "type": "INDIVIDUAL",
+                "label": "Pain_in_the_upper_abdomen_on_the_right_side"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Healthy-Diet",
+                "type": "INDIVIDUAL",
+                "label": "Healthy-Diet"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver_transplant",
+                "type": "INDIVIDUAL",
+                "label": "Liver_transplant"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Participate-In-Alcohol-Recovery-Program",
+                "type": "INDIVIDUAL",
+                "label": "Participate-In-Alcohol-Recovery-Program"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "type": "INDIVIDUAL",
+                "label": "AlcoholicFattyLiverDisease"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fatigue",
+                "type": "INDIVIDUAL",
+                "label": "Fatigue"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NormalFunctionLiver",
+                "type": "INDIVIDUAL",
+                "label": "NormalFunctionLiver"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Weakness",
+                "type": "INDIVIDUAL",
+                "label": "Weakness"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "type": "INDIVIDUAL",
+                "label": "AlcoholicHepatitis"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Anemia",
+                "type": "INDIVIDUAL",
+                "label": "Anemia"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Angiogram",
+                "type": "INDIVIDUAL",
+                "label": "Angiogram"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "type": "INDIVIDUAL",
+                "label": "AutoimmuneHepatitis"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Enlarged-liver",
+                "type": "INDIVIDUAL",
+                "label": "Enlarged-liver"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Itching",
+                "type": "INDIVIDUAL",
+                "label": "Itching"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Joint-pain",
+                "type": "INDIVIDUAL",
+                "label": "Joint-pain"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Spider-angiomas",
+                "type": "INDIVIDUAL",
+                "label": "Spider-angiomas"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Prednisone-and-Azathioprine",
+                "type": "INDIVIDUAL",
+                "label": "Prednisone-and-Azathioprine"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#B",
+                "type": "INDIVIDUAL",
+                "label": "B"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C",
+                "type": "INDIVIDUAL",
+                "label": "C"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C1",
+                "type": "INDIVIDUAL",
+                "label": "C1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-I",
+                "type": "INDIVIDUAL",
+                "label": "Stage-I"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M0",
+                "type": "INDIVIDUAL",
+                "label": "M0"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n0",
+                "type": "INDIVIDUAL",
+                "label": "n0"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T1",
+                "type": "INDIVIDUAL",
+                "label": "T1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C2",
+                "type": "INDIVIDUAL",
+                "label": "C2"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-II",
+                "type": "INDIVIDUAL",
+                "label": "Stage-II"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T2",
+                "type": "INDIVIDUAL",
+                "label": "T2"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C3",
+                "type": "INDIVIDUAL",
+                "label": "C3"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IIIA",
+                "type": "INDIVIDUAL",
+                "label": "Stage-IIIA"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T3a",
+                "type": "INDIVIDUAL",
+                "label": "T3a"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C4",
+                "type": "INDIVIDUAL",
+                "label": "C4"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T3b",
+                "type": "INDIVIDUAL",
+                "label": "T3b"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#CT_scan",
+                "type": "INDIVIDUAL",
+                "label": "CT_scan"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer1",
+                "type": "INDIVIDUAL",
+                "label": "Cancer1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N1",
+                "type": "INDIVIDUAL",
+                "label": "N1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Surgery",
+                "type": "INDIVIDUAL",
+                "label": "Surgery"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer10",
+                "type": "INDIVIDUAL",
+                "label": "Cancer10"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N4",
+                "type": "INDIVIDUAL",
+                "label": "N4"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Targeted-chemotherapy",
+                "type": "INDIVIDUAL",
+                "label": "Targeted-chemotherapy"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer11",
+                "type": "INDIVIDUAL",
+                "label": "Cancer11"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer12",
+                "type": "INDIVIDUAL",
+                "label": "Cancer12"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D",
+                "type": "INDIVIDUAL",
+                "label": "D"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N5",
+                "type": "INDIVIDUAL",
+                "label": "N5"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Supportive-Care",
+                "type": "INDIVIDUAL",
+                "label": "Supportive-Care"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer13",
+                "type": "INDIVIDUAL",
+                "label": "Cancer13"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer2",
+                "type": "INDIVIDUAL",
+                "label": "Cancer2"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N2",
+                "type": "INDIVIDUAL",
+                "label": "N2"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer3",
+                "type": "INDIVIDUAL",
+                "label": "Cancer3"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer4",
+                "type": "INDIVIDUAL",
+                "label": "Cancer4"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TACE",
+                "type": "INDIVIDUAL",
+                "label": "TACE"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer5",
+                "type": "INDIVIDUAL",
+                "label": "Cancer5"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N3",
+                "type": "INDIVIDUAL",
+                "label": "N3"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer6",
+                "type": "INDIVIDUAL",
+                "label": "Cancer6"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer7",
+                "type": "INDIVIDUAL",
+                "label": "Cancer7"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer8",
+                "type": "INDIVIDUAL",
+                "label": "Cancer8"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer9",
+                "type": "INDIVIDUAL",
+                "label": "Cancer9"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Chronic-cough",
+                "type": "INDIVIDUAL",
+                "label": "Chronic-cough"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Confusion",
+                "type": "INDIVIDUAL",
+                "label": "Confusion"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D-penicillamine",
+                "type": "INDIVIDUAL",
+                "label": "D-penicillamine"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diabetes",
+                "type": "INDIVIDUAL",
+                "label": "Diabetes"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Eye-Tests",
+                "type": "INDIVIDUAL",
+                "label": "Eye-Tests"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hemochromatosis",
+                "type": "INDIVIDUAL",
+                "label": "Hemochromatosis"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-A",
+                "type": "INDIVIDUAL",
+                "label": "Hepatitis-A"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-B",
+                "type": "INDIVIDUAL",
+                "label": "Hepatitis-B"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-C",
+                "type": "INDIVIDUAL",
+                "label": "Hepatitis-C"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis_B",
+                "type": "INDIVIDUAL",
+                "label": "Hepatitis_B"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis_C",
+                "type": "INDIVIDUAL",
+                "label": "Hepatitis_C"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Infections",
+                "type": "INDIVIDUAL",
+                "label": "Infections"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Iron_storage_disease",
+                "type": "INDIVIDUAL",
+                "label": "Iron_storage_disease"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Kayser-Fleischer-Ring",
+                "type": "INDIVIDUAL",
+                "label": "Kayser-Fleischer-Ring"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L1",
+                "type": "INDIVIDUAL",
+                "label": "L1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L10",
+                "type": "INDIVIDUAL",
+                "label": "L10"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L11",
+                "type": "INDIVIDUAL",
+                "label": "L11"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L12",
+                "type": "INDIVIDUAL",
+                "label": "L12"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L13",
+                "type": "INDIVIDUAL",
+                "label": "L13"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L2",
+                "type": "INDIVIDUAL",
+                "label": "L2"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L3",
+                "type": "INDIVIDUAL",
+                "label": "L3"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L4",
+                "type": "INDIVIDUAL",
+                "label": "L4"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L5",
+                "type": "INDIVIDUAL",
+                "label": "L5"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L6",
+                "type": "INDIVIDUAL",
+                "label": "L6"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L7",
+                "type": "INDIVIDUAL",
+                "label": "L7"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L8",
+                "type": "INDIVIDUAL",
+                "label": "L8"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L9",
+                "type": "INDIVIDUAL",
+                "label": "L9"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M1",
+                "type": "INDIVIDUAL",
+                "label": "M1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N6",
+                "type": "INDIVIDUAL",
+                "label": "N6"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "type": "INDIVIDUAL",
+                "label": "NonalcoholicFattyLiverDisease"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Ultrasound_test",
+                "type": "INDIVIDUAL",
+                "label": "Ultrasound_test"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Poor-judgment",
+                "type": "INDIVIDUAL",
+                "label": "Poor-judgment"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Trouble-concentrating",
+                "type": "INDIVIDUAL",
+                "label": "Trouble-concentrating"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Regular-Exercice",
+                "type": "INDIVIDUAL",
+                "label": "Regular-Exercice"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Obesity",
+                "type": "INDIVIDUAL",
+                "label": "Obesity"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient1",
+                "type": "INDIVIDUAL",
+                "label": "Patient1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient2",
+                "type": "INDIVIDUAL",
+                "label": "Patient2"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient3",
+                "type": "INDIVIDUAL",
+                "label": "Patient3"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient4",
+                "type": "INDIVIDUAL",
+                "label": "Patient4"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IIIB",
+                "type": "INDIVIDUAL",
+                "label": "Stage-IIIB"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IIIC",
+                "type": "INDIVIDUAL",
+                "label": "Stage-IIIC"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IVA",
+                "type": "INDIVIDUAL",
+                "label": "Stage-IVA"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IVB",
+                "type": "INDIVIDUAL",
+                "label": "Stage-IVB"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Swollen_abdomen",
+                "type": "INDIVIDUAL",
+                "label": "Swollen_abdomen"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T0",
+                "type": "INDIVIDUAL",
+                "label": "T0"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T4",
+                "type": "INDIVIDUAL",
+                "label": "T4"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TX",
+                "type": "INDIVIDUAL",
+                "label": "TX"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Tobbaco",
+                "type": "INDIVIDUAL",
+                "label": "Tobbaco"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Weight_loss",
+                "type": "INDIVIDUAL",
+                "label": "Weight_loss"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#a_feeling_of_heaviness_in_the_upper_abdomen",
+                "type": "INDIVIDUAL",
+                "label": "a_feeling_of_heaviness_in_the_upper_abdomen"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n1",
+                "type": "INDIVIDUAL",
+                "label": "n1"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#nX",
+                "type": "INDIVIDUAL",
+                "label": "nX"
+            },
+            {
+                "id": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MRI,_Physical_exam",
+                "type": "INDIVIDUAL",
+                "label": "MRI,_Physical_exam"
+            }
+        ],
+        "edges": [
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Confusion",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer9",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N4",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-A",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Iron_storage_disease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M0",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer8",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Targeted-chemotherapy",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholRelatedLiverDisease",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneLiverDisease",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nausea_and_vomiting",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TACE",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Swollen_abdomen",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Spider-angiomas",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer11",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T3a",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A0",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D-penicillamine",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-B",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EarlyStage",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hapatocellular-Carcinoma",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#p",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fever",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D-penicillamine",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer5",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver_transplant",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fat-Deposition-Liver-Cells",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#B",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hemochromatosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Biopsy",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TACE",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Ultrasound_test",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Healthy-Diet",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#ARF",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Prednisone-and-Azathioprine",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Inflammation-Of-Liver",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Blood_tests",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Biopsy",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EvaluatedLiverEnzimes",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IIIA",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Joint-pain",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L6",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N6",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nodule",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Aflatoxin",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fatigue",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer3",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#WLSON",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diabetes",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T3b",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#a_feeling_of_heaviness_in_the_upper_abdomen",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Blood_tests",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#nX",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer8",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N4",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer10",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Targeted-chemotherapy",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L8",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M0",
+                "label": "has-M"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#CT_scan",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fever",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nausea_and_vomiting",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IIIC",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#StageTNM",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Itching",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Biopsy",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Jaundice",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L11",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#x",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EarlyStage",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#B",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#IntermediateStage",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Targeted-chemotherapy",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-B",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hemochromatosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nodule",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Loss_of_appetite_and_feelings_of_fullness",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nausea_and_vomiting",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Trouble-concentrating",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer12",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Supportive-Care",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EvaluatedLiverEnzimes",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#s",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N1",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fatigue",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Aflatoxin",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Inflammation-Of-Liver",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EarlyStage",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Infections",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nausea_and_vomiting",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer10",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diabetes",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L5",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer5",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Eye-Tests",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Regular-Exercice",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer12",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L6",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer6",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Ultrasound_test",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M0",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer12",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-II",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IIIA",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#StageTNM",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer9",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Confusion",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer11",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L10",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Obesity",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Blood_tests",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#u",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EarlyStage",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer13",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver_transplant",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer1",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#i",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M0",
+                "label": "has-M"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver_transplant",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer9",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Targeted-chemotherapy",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholRelatedLiverDisease",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n0",
+                "label": "has-N"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#FattyLiverDisease",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L9",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer9",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Swollen_abdomen",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Poor-judgment",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer10",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer6",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N4",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Jaundice",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IIIB",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#StageTNM",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AbnormalFunctionLiver",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#UltimateStage",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L5",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T0",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EvaluatedLiverEnzimes",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Jaundice",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L13",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer13",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Pain_in_the_upper_abdomen_on_the_right_side",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer5",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N3",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Eye-Tests",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Trouble-concentrating",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L13",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NormalFunctionLiver",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#a_feeling_of_heaviness_in_the_upper_abdomen",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Weakness",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fat-Deposition-Liver-Cells",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer7",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N4",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AdvancedStage",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L7",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AbnormalFunctionLiver",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Surgery",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Loss_of_appetite_and_feelings_of_fullness",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-II",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#StageTNM",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#t",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Trouble-concentrating",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nausea_and_vomiting",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A2",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Prednisone-and-Azathioprine",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N5",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nodule",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fat-Deposition-Liver-Cells",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer5",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver_transplant",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer7",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#B",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer8",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T2",
+                "label": "has-T"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N2",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Joint-pain",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Infections",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AbnormalFunctionLiver",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Spider-angiomas",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N2",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n0",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L12",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer12",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#y",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Inflammation-Of-Liver",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nodule",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NormalFunctionLiver",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Weakness",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M0",
+                "label": "has-M"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Pain_in_the_upper_abdomen_on_the_right_side",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fatigue",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IVB",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#StageTNM",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Enlarged-liver",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Targeted-chemotherapy",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A0",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer12",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N5",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Ultrasound_test",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Healthy-Diet",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver_transplant",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L9",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Kayser-Fleischer-Ring",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L8",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer8",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#o",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Blood_tests",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Surgery",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T0",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer6",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#nX",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Participate-In-Alcohol-Recovery-Program",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MRI,_Physical_exam",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L7",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer7",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nodule",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer8",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Enlarged-liver",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#l",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#ARF",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholRelatedLiverDisease",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n0",
+                "label": "has-N"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer13",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Supportive-Care",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis_C",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Poor-judgment",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Weakness",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fatigue",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Pain_in_the_upper_abdomen_on_the_right_side",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Jaundice",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Patient",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Pain_in_the_upper_abdomen_on_the_right_side",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Weight_loss",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer6",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#B",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EvaluatedLiverEnzimes",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Loss_of_appetite_and_feelings_of_fullness",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fever",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Anemia",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Loss_of_appetite_and_feelings_of_fullness",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer13",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer4",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis_C",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Weakness",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Loss_of_appetite_and_feelings_of_fullness",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#ARF",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Poor-judgment",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer11",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Targeted-chemotherapy",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MRI,_Physical_exam",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Chronic-cough",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TACE",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#ARF",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer5",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A4",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TX",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AbnormalFunctionLiver",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n0",
+                "label": "has-N"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Participate-In-Alcohol-Recovery-Program",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Tobbaco",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NormalFunctionLiver",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Confusion",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Alcohol",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#f",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#UltimateStage",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-I",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Inherited",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer7",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Enlarged-liver",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Surgery",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A3",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer7",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TACE",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A1",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#D",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#c",
+                "obj": "http://www.w3.org/2003/11/swrl#Variable",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#B",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Itching",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nausea_and_vomiting",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Regular-Exercice",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#IntermediateStage",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Regular-Exercice",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Blood_tests",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Kayser-Fleischer-Ring",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer13",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N5",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EarlyStage",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-C",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer11",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N4",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Participate-In-Alcohol-Recovery-Program",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Pain_in_the_upper_abdomen_on_the_right_side",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Prednisone-and-Azathioprine",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholRelatedLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Biopsy",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Angiogram",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fat-Deposition-Liver-Cells",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Participate-In-Alcohol-Recovery-Program",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer9",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C",
+                "label": "classifiedInto"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Blood_tests",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer5",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TACE",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Chronic-cough",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-IVA",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#StageTNM",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Inflammation-Of-Liver",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Tobbaco",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis_B",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Joint-pain",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Stage-I",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#StageTNM",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Healthy-Diet",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer2",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T1",
+                "label": "has-T"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Alcohol",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cholestatic",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Biopsy",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T3a",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Healthy-Diet",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#FattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T3a",
+                "label": "has-T"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Blood_tests",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Supportive-Care",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fatigue",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Supportive-Care",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Treatment",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Weight_loss",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#EvaluatedLiverEnzimes",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Itching",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#VeryEarlyStage",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Healthy-Diet",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver_transplant",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Biopsy",
+                "label": "diagnosedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Surgery",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Jaundice",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Symptoms",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Fever",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#LiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-C",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Surgery",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T3b",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Anemia",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#T3b",
+                "label": "has-T"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis-A",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicCirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Participate-In-Alcohol-Recovery-Program",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AlcoholicHepatitis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Loss_of_appetite_and_feelings_of_fullness",
+                "label": "hasSymptoms"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer6",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TACE",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n0",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Iron_storage_disease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Hepatitis_B",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Spider-angiomas",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TX",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M0",
+                "label": "has-M"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Biopsy",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cirrhosis",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#References",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A0",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#VeryEarlyStage",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer2",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#ARF",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L11",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer11",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AutoimmuneLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TypesLiverCancer",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#NonalcoholicFattyLiverDisease",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Healthy-Diet",
+                "label": "treatedBy"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer10",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N4",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Angiogram",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#MedicalIntervention",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#n0",
+                "label": "has-N"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#A3",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L10",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer10",
+                "label": "contains"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Nodule",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#CT_scan",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Diagnosis",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#L12",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Liver",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#C",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#AdvancedStage",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#BCLC-System",
+                "label": "subClassOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Obesity",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Risk-Factors",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#M1",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#TNM-System",
+                "label": "type"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer4",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#N2",
+                "label": "composedOf"
+            },
+            {
+                "sub": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Cancer",
+                "obj": "http://www.semanticweb.org/stagiaire1/ontologies/2016/5/untitled-ontology-49#Disease",
+                "label": "subClassOf"
+            }
+        ]
+    }
+}
